@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kimbo/static/css/main.071f0ae7.chunk.css",
+    "main.js": "/kimbo/static/js/main.e676a583.chunk.js",
+    "main.js.map": "/kimbo/static/js/main.e676a583.chunk.js.map",
+    "runtime-main.js": "/kimbo/static/js/runtime-main.c2dbf46a.js",
+    "runtime-main.js.map": "/kimbo/static/js/runtime-main.c2dbf46a.js.map",
+    "static/js/2.a5e8d4f6.chunk.js": "/kimbo/static/js/2.a5e8d4f6.chunk.js",
+    "static/js/2.a5e8d4f6.chunk.js.map": "/kimbo/static/js/2.a5e8d4f6.chunk.js.map",
+    "index.html": "/kimbo/index.html",
+    "precache-manifest.c3a3fc4f8b059200794d0064b48fd1c3.js": "/kimbo/precache-manifest.c3a3fc4f8b059200794d0064b48fd1c3.js",
+    "service-worker.js": "/kimbo/service-worker.js",
+    "static/css/main.071f0ae7.chunk.css.map": "/kimbo/static/css/main.071f0ae7.chunk.css.map",
+    "static/js/2.a5e8d4f6.chunk.js.LICENSE.txt": "/kimbo/static/js/2.a5e8d4f6.chunk.js.LICENSE.txt",
+    "static/media/login-indesign.png": "/kimbo/static/media/login-indesign.2cc2525d.png",
+    "static/media/profile.png": "/kimbo/static/media/profile.c55819c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2dbf46a.js",
+    "static/js/2.a5e8d4f6.chunk.js",
+    "static/css/main.071f0ae7.chunk.css",
+    "static/js/main.e676a583.chunk.js"
+  ]
+}
