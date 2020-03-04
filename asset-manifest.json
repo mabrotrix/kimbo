@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kimbo/static/css/main.071f0ae7.chunk.css",
-    "main.js": "/kimbo/static/js/main.7ebc3864.chunk.js",
-    "main.js.map": "/kimbo/static/js/main.7ebc3864.chunk.js.map",
+    "main.js": "/kimbo/static/js/main.f790b3c5.chunk.js",
+    "main.js.map": "/kimbo/static/js/main.f790b3c5.chunk.js.map",
     "runtime-main.js": "/kimbo/static/js/runtime-main.c2dbf46a.js",
     "runtime-main.js.map": "/kimbo/static/js/runtime-main.c2dbf46a.js.map",
     "static/js/2.a5e8d4f6.chunk.js": "/kimbo/static/js/2.a5e8d4f6.chunk.js",
     "static/js/2.a5e8d4f6.chunk.js.map": "/kimbo/static/js/2.a5e8d4f6.chunk.js.map",
     "index.html": "/kimbo/index.html",
-    "precache-manifest.3341234f45ba2ec78654ab7b6a63b9d4.js": "/kimbo/precache-manifest.3341234f45ba2ec78654ab7b6a63b9d4.js",
+    "precache-manifest.530884cd6fbcf0d1ab155b4fb1272a3a.js": "/kimbo/precache-manifest.530884cd6fbcf0d1ab155b4fb1272a3a.js",
     "service-worker.js": "/kimbo/service-worker.js",
     "static/css/main.071f0ae7.chunk.css.map": "/kimbo/static/css/main.071f0ae7.chunk.css.map",
     "static/js/2.a5e8d4f6.chunk.js.LICENSE.txt": "/kimbo/static/js/2.a5e8d4f6.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c2dbf46a.js",
     "static/js/2.a5e8d4f6.chunk.js",
     "static/css/main.071f0ae7.chunk.css",
-    "static/js/main.7ebc3864.chunk.js"
+    "static/js/main.f790b3c5.chunk.js"
   ]
 }
