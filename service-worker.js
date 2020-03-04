@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kimbo/precache-manifest.88cfc0685e1661ca73312e5bf5a9c4ed.js"
+  "/kimbo/precache-manifest.b219fb9f7f682373eba6606bccc0adb4.js"
 );
 
 self.addEventListener('message', (event) => {
