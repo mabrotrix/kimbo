@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa361499140a5ede168db924abdd7b53",
+    "revision": "fdc4b86a96eaa36c4a3c9e57a1f8b56a",
     "url": "/kimbo/index.html"
   },
   {
-    "revision": "8db6beb333973d2d9497",
+    "revision": "9671b48866a964b8bbb8",
     "url": "/kimbo/static/css/main.071f0ae7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kimbo/static/js/2.a5e8d4f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8db6beb333973d2d9497",
-    "url": "/kimbo/static/js/main.2698702b.chunk.js"
+    "revision": "9671b48866a964b8bbb8",
+    "url": "/kimbo/static/js/main.972d69b7.chunk.js"
   },
   {
     "revision": "a1e60ed94bfbbb047213",
